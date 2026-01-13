@@ -16,7 +16,7 @@
 #/
 #/ EXAMPLE:
 #/
-#/ gcontrol.sh -c white -s highlight -b 5 -c 5 -z 1.5 -p off -h on -e on
+#/ gcontrol.sh -c white -s highlight -b 5 -c 5 -z 1 -p off -h on -e on
 
 declare -A colors
 colors["white"]="\x00\x04\x00\x00\x00\x00\x01"
