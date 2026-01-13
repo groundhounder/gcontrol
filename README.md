@@ -29,4 +29,4 @@ OPTIONS:
 
 EXAMPLE:
 
-gcontrol.sh -c white -s highlight -b 5 -c 5 -z 1.5 -p off -h on -e on
+gcontrol.sh -c white -s highlight -b 5 -c 5 -z 3 -p off -h on -e on
